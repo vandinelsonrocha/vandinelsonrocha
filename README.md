@@ -1,4 +1,4 @@
-<h2>Hello😎, I'm Vandinelson Rocha, a lover of technological content💻❤. Beginner in programming, Frontend development...</h2>
+<h2>Hello😎, I'm Vandinelson Rocha, a lover of technological content💻❤.Frontend development...</h2>
 
 <ul>
   <li>📚 fourth year of the computer engineering course 2022/2023</li>
