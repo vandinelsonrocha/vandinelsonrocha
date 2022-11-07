@@ -1,5 +1,7 @@
 <h2>Hello😎, I'm Vandinelson Rocha, a lover of technological content💻❤.Frontend development...</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vandinelsonrocha&label=Profile%20views&color=0eb421&style=flat" alt="visualizações" /> </p>
+
 <ul>
   <li>📚 fourth year of the computer engineering course 2022/2023</li>
   <li>👱‍♂️ date of birth: 09/11/2000</li>
@@ -11,6 +13,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vandinelsonrocha&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandinelsonrocha&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
+
+##
 
 <div style="display: inline-block;">
   <img align="center" alt="Vandinelson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
