@@ -30,6 +30,7 @@
 ##
 
 <div>
+  <br><br><br><br>
   <h3>Connect with me:</h3>
   <a href="www.linkedin.com/in/vandy-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:vandInforma.tic@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
