@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandinelsonrocha&label=Profile%20views&color=blue&style=flat" alt="visualizações" /> </p>
 
 <ul>
-  <li>📚 Degree in IT engineering 2019 - 2023</li>
+  <li>📚 Degree in IT engineering (2019 - 2023)</li>
   <li>👱‍♂️ date of birth: 09/11/2000</li>
   <li>🦾 studying hard</li>
  </ul>
